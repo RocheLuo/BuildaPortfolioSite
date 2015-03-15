@@ -1,4 +1,4 @@
-# BuildaPortfolioSite
+# Build a Portfolio Site
 Udacity Project 1 Build a Portfolio Site
 
 For the project the 
