@@ -1,7 +1,7 @@
 # Build a Portfolio Site
 Udacity Project 1 Build a Portfolio Site
 
-For the project the 
+For the project the dog
 
 - Design mockup file was downloaded from the Downloadables section and reviewed (the design file is called p1.pdf and is also uploaded to this directory).
 - Various boxes were identified needed to recreate this design.
