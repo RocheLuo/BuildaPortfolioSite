@@ -3,4 +3,4 @@
 $('.launchConfirm').on('click', function (e) {
     $('#confirm')
         .modal({ backdrop: 'static', keyboard: false })     
-});
+}
